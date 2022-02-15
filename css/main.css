@@ -11,6 +11,7 @@ body {
 nav {
     width: 51%;
     height: 45px;
+    margin-left: 23%;
     background-color: var(--rood);
     border-radius: 20px;
     display: flex;
@@ -32,4 +33,15 @@ a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
     color: rgb(255, 255, 255);
+}
+
+.block {
+    width: 60%;
+    height: 105px;
+    margin-left: 18%;
+    border-radius: 20px;
+    background-color: var(--rood);
+    margin-top: 220px;
+    -webkit-box-shadow: 10px 8px 24px 2px #000000;
+    box-shadow: 10px 8px 24px 2px #000000;
 }
