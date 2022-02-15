@@ -35,25 +35,31 @@ a {
     color: rgb(255, 255, 255);
 }
 
-.textright {
-    width: %;
+.teamblock {
+    width: 60%;
     height: 200px;
     margin-left: 18%;
     border-radius: 20px;
+    display: flex;
     background-color: var(--rood);
-    margin-top: 220px;
+    margin-top: 120px;
     -webkit-box-shadow: 10px 8px 24px 2px #000000;
     box-shadow: 10px 8px 24px 2px #000000;
 }
 
-.picleft {
-    
-}
-
-.textleft {
-
+.textblockleft   {
+    width: 78%;
+    height: 100%;
+    margin-left: 10px;
 }
 
 .picright {
+    width: 22%;
+    height: 100%;
+}
 
+h2{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
 }

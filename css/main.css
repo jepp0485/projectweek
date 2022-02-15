@@ -45,3 +45,9 @@ a {
     -webkit-box-shadow: 10px 8px 24px 2px #000000;
     box-shadow: 10px 8px 24px 2px #000000;
 }
+
+h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 40%;
+}
