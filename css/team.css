@@ -36,9 +36,9 @@ a {
 }
 
 .teamblock {
-    width: 60%;
+    width: 50%;
     height: 200px;
-    margin-left: 18%;
+    margin-left: 295px;
     border-radius: 20px;
     display: flex;
     background-color: var(--rood);
@@ -54,8 +54,9 @@ a {
 }
 
 .picright {
-    width: 22%;
+    width: 27%;
     height: 100%;
+    background-color:aquamarine
 }
 
 h2{
