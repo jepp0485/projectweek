@@ -35,6 +35,17 @@ a {
     color: rgb(255, 255, 255);
 }
 
+.teamblock {
+    height: 400px;
+    width: 70%;
+    background-color: var(--rood);
+    margin-left: 170px;
+    margin-top: 60px;
+    border-radius: 20px;
+    -webkit-box-shadow: 10px 8px 24px 2px #000000;
+    box-shadow: 10px 8px 24px 2px #000000;
+}
+
 h2{
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
